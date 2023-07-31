@@ -1,6 +1,8 @@
 # Shipping-and-Stock-Performace-of-the-look-ecommerce
 This project aims to assess the shipping and stock performance of The Look Ecommerce through Data Visualization and Dashboard creation
 
+- Dashboard : https://lookerstudio.google.com/reporting/59d8caaa-d65c-4e7d-b30b-07bda9423e22
+
 # File Explanation on Github
 - Shipping_and_Stock_Performance_Review.ipynb = This file is the main notebook used
 
